@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppFotosMovil</name>
+    </assembly>
+    <members>
+        <member name="T:AppFotosMovil.ViewModels.FotoViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:AppFotosMovil.ViewModels.FotoViewModel.ImagenPreview">
+            <inheritdoc cref="F:AppFotosMovil.ViewModels.FotoViewModel._imagenPreview"/>
+        </member>
+        <member name="P:AppFotosMovil.ViewModels.FotoViewModel.MensajeEstado">
+            <inheritdoc cref="F:AppFotosMovil.ViewModels.FotoViewModel._mensajeEstado"/>
+        </member>
+        <member name="F:AppFotosMovil.ViewModels.FotoViewModel.seleccionarFotoCommand">
+            <summary>The backing field for <see cref="P:AppFotosMovil.ViewModels.FotoViewModel.SeleccionarFotoCommand"/>.</summary>
+        </member>
+        <member name="P:AppFotosMovil.ViewModels.FotoViewModel.SeleccionarFotoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AppFotosMovil.ViewModels.FotoViewModel.SeleccionarFotoAsync"/>.</summary>
+        </member>
+        <member name="F:AppFotosMovil.ViewModels.FotoViewModel.subirFotoCommand">
+            <summary>The backing field for <see cref="P:AppFotosMovil.ViewModels.FotoViewModel.SubirFotoCommand"/>.</summary>
+        </member>
+        <member name="P:AppFotosMovil.ViewModels.FotoViewModel.SubirFotoCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:AppFotosMovil.ViewModels.FotoViewModel.SubirFotoAsync"/>.</summary>
+        </member>
+        <member name="T:AppFotosMovil.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ImagenPreview">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ImagenPreview" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.MensajeEstado">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "MensajeEstado" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ImagenPreview">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ImagenPreview" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.MensajeEstado">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "MensajeEstado" generated properties.</summary>
+        </member>
+    </members>
+</doc>

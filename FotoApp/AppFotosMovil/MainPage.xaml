@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppFotosMovil.MainPage"
+             BackgroundColor="#f8fafc">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="24" Spacing="20" VerticalOptions="Center">
+
+            <Label Text="Subir Fotos desde la Galería" 
+                   FontSize="22" 
+                   FontAttributes="Bold" 
+                   HorizontalTextAlignment="Center" 
+                   TextColor="#1e293b" />
+
+            <!-- Botón para abrir la galería -->
+            <Button Text="Seleccionar de la Galería" 
+                    Command="{Binding SeleccionarFotoCommand}"
+                    BackgroundColor="#4f46e5"
+                    TextColor="White"
+                    FontSize="16"
+                    CornerRadius="8"
+                    HeightRequest="50" />
+
+            <!-- Vista previa de la imagen seleccionada -->
+            <Border HeightRequest="320" 
+                    StrokeShape="RoundRectangle 12" 
+                    StrokeThickness="1"
+                    Stroke="#e2e8f0"
+                    BackgroundColor="#e2e8f0"
+                    HorizontalOptions="Fill">
+                <Image Source="{Binding ImagenPreview}" 
+                       Aspect="AspectFill" />
+            </Border>
+
+            <!-- Botón para enviar al servidor -->
+            <Button Text="Subir a SQL Server" 
+                    Command="{Binding SubirFotoCommand}" 
+                    BackgroundColor="#10b981" 
+                    TextColor="White" 
+                    FontSize="16"
+                    CornerRadius="8"
+                    HeightRequest="50" />
+
+            <!-- Mensaje de estado -->
+            <Label Text="{Binding MensajeEstado}" 
+                   HorizontalTextAlignment="Center" 
+                   FontSize="14" 
+                   TextColor="#64748b" 
+                   LineBreakMode="WordWrap" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

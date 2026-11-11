@@ -1,0 +1,8 @@
+C:\Users\d4nok\source\repos\FotoApp\FotoApp\obj\Debug\net8.0\FotoApp.csproj.AssemblyReference.cache
+C:\Users\d4nok\source\repos\FotoApp\FotoApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\d4nok\source\repos\FotoApp\FotoApp\obj\Debug\net8.0\FotoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d4nok\source\repos\FotoApp\FotoApp\obj\Debug\net8.0\FotoApp.AssemblyInfoInputs.cache
+C:\Users\d4nok\source\repos\FotoApp\FotoApp\obj\Debug\net8.0\FotoApp.AssemblyInfo.cs
+C:\Users\d4nok\source\repos\FotoApp\FotoApp\obj\Debug\net8.0\FotoApp.csproj.CoreCompileInputs.cache
+C:\Users\d4nok\source\repos\FotoApp\FotoApp\obj\Debug\net8.0\FotoApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\d4nok\source\repos\FotoApp\FotoApp\obj\Debug\net8.0\FotoApp.MvcApplicationPartsAssemblyInfo.cache

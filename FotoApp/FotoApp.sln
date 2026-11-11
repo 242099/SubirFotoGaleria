@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37806.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendFotosApi", "BackendFotosApi\BackendFotosApi.csproj", "{1C2AC79A-DB90-45FE-A26D-007024D55379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppFotosMovil", "AppFotosMovil\AppFotosMovil.csproj", "{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2AC79A-DB90-45FE-A26D-007024D55379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2AC79A-DB90-45FE-A26D-007024D55379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2AC79A-DB90-45FE-A26D-007024D55379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2AC79A-DB90-45FE-A26D-007024D55379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9764BAF4-92A5-47F7-BF9E-50FF89450168}
+	EndGlobalSection
+EndGlobal

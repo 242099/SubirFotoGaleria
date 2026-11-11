@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\appfotosmovil\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|solutionrelative:appfotosmovil\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\appfotosmovil\\viewmodels\\fotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|solutionrelative:appfotosmovil\\viewmodels\\fotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\backendfotosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|solutionrelative:backendfotosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\appfotosmovil\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|solutionrelative:appfotosmovil\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\appfotosmovil\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|solutionrelative:appfotosmovil\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\appfotosmovil\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75FD2E1-3702-4EBA-9AFE-FD71A4F1FC52}|AppFotosMovil\\AppFotosMovil.csproj|solutionrelative:appfotosmovil\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\backendfotosapi\\repositories\\fotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|solutionrelative:backendfotosapi\\repositories\\fotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\backendfotosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|solutionrelative:backendfotosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\backendfotosapi\\models\\fotografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|solutionrelative:backendfotosapi\\models\\fotografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|c:\\users\\d4nok\\source\\repos\\fotoapp\\backendfotosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C2AC79A-DB90-45FE-A26D-007024D55379}|BackendFotosApi\\BackendFotosApi.csproj|solutionrelative:backendfotosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FotoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\ViewModels\\FotoViewModel.cs",
+              "RelativeDocumentMoniker": "AppFotosMovil\\ViewModels\\FotoViewModel.cs",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\ViewModels\\FotoViewModel.cs",
+              "RelativeToolTip": "AppFotosMovil\\ViewModels\\FotoViewModel.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T03:54:01.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\Program.cs",
+              "RelativeDocumentMoniker": "BackendFotosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\Program.cs",
+              "RelativeToolTip": "BackendFotosApi\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:55:17.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppFotosMovil\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppFotosMovil\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T04:07:21.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AppFotosMovil\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "AppFotosMovil\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-11-11T02:11:45.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AppFotosMovil\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\MauiProgram.cs",
+              "RelativeToolTip": "AppFotosMovil\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:15:24.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppFotosMovil\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\AppFotosMovil\\MainPage.xaml",
+              "RelativeToolTip": "AppFotosMovil\\MainPage.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-11T03:57:23.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackendFotosApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BackendFotosApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:28:55.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fotografia.cs",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\Models\\Fotografia.cs",
+              "RelativeDocumentMoniker": "BackendFotosApi\\Models\\Fotografia.cs",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\Models\\Fotografia.cs",
+              "RelativeToolTip": "BackendFotosApi\\Models\\Fotografia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:27:15.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\Repositories\\FotoRepository.cs",
+              "RelativeDocumentMoniker": "BackendFotosApi\\Repositories\\FotoRepository.cs",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\Repositories\\FotoRepository.cs",
+              "RelativeToolTip": "BackendFotosApi\\Repositories\\FotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:58:39.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendFotosApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\d4nok\\source\\repos\\FotoApp\\BackendFotosApi\\appsettings.json",
+              "RelativeToolTip": "BackendFotosApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-11T01:31:47.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
